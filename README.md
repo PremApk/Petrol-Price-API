@@ -5,7 +5,7 @@ Live version : https://petrolpriceapi.herokuapp.com/ (or) https://petrol-price-a
 
 ## API Endpoints :
 
-Base URL: ```https://petrolpriceapi.herokuapp.com/```
+Base URL: ```https://petrolpriceapi.herokuapp.com/``` (or) ```https://petrol-price-api.herokuapp.com/tamilnadu```
 * GET ```/<state>```
 List all petrol prices in the state for all districts
 
