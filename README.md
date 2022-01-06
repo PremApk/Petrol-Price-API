@@ -1,6 +1,8 @@
 # Petrol Price API for India
 Get Today's petrol prices for Indian states and districts
 
+Note: Currently under Development, sometimes you will not get response! Will remove this line for stable version!!! Thanks
+
 Live version : https://petrolpriceapi.herokuapp.com/ (or) https://petrol-price-api.herokuapp.com/
 
 ## API Endpoints :
